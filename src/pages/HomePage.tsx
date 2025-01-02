@@ -1,7 +1,7 @@
 import { PriceCards } from '../components/exchange/PriceCards'
 import { Alert } from '../components/ui/alert'
 import { AlertTriangle } from 'lucide-react'
-import { cn } from '../lib/utils'
+
 
 export function HomePage() {
   return (
